@@ -3,7 +3,7 @@
   "last_modified": "Wed, 21 Oct 2015 07:28:00 GMT",
   "data": {
     "kill_switch": false,
-    "update_available": true,
+    "update_available": false,
     "download_link": "x"
   }
 }
